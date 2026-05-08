@@ -15,8 +15,6 @@ I am a Ph.D. student in computer architecture in the [Siebel School of Computing
 
 * R. Wong, N. Kim, **A. Das**, K. M. Higgs, E. Ipek, S. Agarwal, S. Ghose, and B. Feinberg." [ANVIL: An In-Storage Accelerator for Name--Value Data Stores](https://AniketD23.github.io/files/25isca_anvil.pdf)", 52<sup>nd</sup> International Symposium on Computer Architecture **(ISCA)**, June 2025.
 
-* **R. Wong**, N. Kim, A. Das, K. M. Higgs, E. Ipek, S. Agarwal, S. Ghose, and B. Feinberg, [ANVIL: An In-Storage Accelerator for Name--Value Data Stores](https://rwong.cs.illinois.edu/files/25isca_anvil.pdf), 52<sup>nd</sup> International Symposium on Computer Architecture **(ISCA)**, 2025.
-
 # Teaching
 
 * CS 433 (Computer System Organization)
